@@ -1,0 +1,24 @@
+.arrow-right {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    left: 80%;
+    font-size: 10px;
+    text-decoration: none;
+}
+
+.lang-bar {
+    width: 250px;
+    padding: 10px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lang-bar {
+    position: fixed;
+    bottom: 100px;
+    right: 25%;
+    transform: translateX(-50%);
+}
